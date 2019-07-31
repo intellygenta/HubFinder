@@ -1,0 +1,7 @@
+figures/*
+motion-sense/data/B_Accelerometer_data/*
+mitdb/*
+src/.ipynb_checkpoints
+src/result_motion.csv
+*.pyc
+*.pkl
