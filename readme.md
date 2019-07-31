@@ -39,7 +39,7 @@ Please reference as
 * wfdb 2.0+
 
 # Usage
-1. Download `106.atr`, `106.dat`, and `106.hea` from [PhisioNet](https://physionet.org/physiobank/database/mitdb/) and place them at `./mitdb/`.
+1. Download `106.atr`, `106.dat`, and `106.hea` from [PhysioNet](https://physionet.org/physiobank/database/mitdb/) and place them at `./mitdb/`.
 2. Download `data_subjects_info.csv` and `B_Accelerometer_data.zip` from [MotionSense] and place thme at `./motion-sense/data/`.
 3. Unzip `./motion-sense/data/B_Accelerometer_data.zip`.
 4. Run each jupyter notebook `./src/*.ipynb`.
