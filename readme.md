@@ -5,7 +5,7 @@ Genta Yoshimura, Atsunori Kanemura, Hideki Asoh,
 [Enumerating Hub Motifs in Time Series Based on the Matrix Profile](https://milets19.github.io/papers/milets19_paper_5.pdf),
 5th Workshop on Mining and Learning from Time Series (MiLeTS’19).
 
-Oral presentation slide used in MiLeTS'19 is available at [slideshare]().
+Oral presentation slide used in MiLeTS'19 will be available at [slideshare] later.
 
 Please reference as
 ```
